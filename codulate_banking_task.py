@@ -1,8 +1,4 @@
-'''
-This may not be the most optimized solution, but as far as I can check it works well.
-I first heard about the "single class".
-It allows me to call this class only ones and it makes my job more difficult.
-Hope I used it correctly'''
+
 
 class SystemDB:
     __instance = None
